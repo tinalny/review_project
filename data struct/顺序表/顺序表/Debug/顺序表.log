@@ -1,0 +1,16 @@
+﻿  main.cpp
+  正在生成代码...
+  正在编译...
+  SeqList.cpp
+g:\git\project\data struct\顺序表\顺序表\seqlist.cpp(84): warning C4018: “<”: 有符号/无符号不匹配
+g:\git\project\data struct\顺序表\顺序表\seqlist.cpp(96): warning C4018: “<”: 有符号/无符号不匹配
+g:\git\project\data struct\顺序表\顺序表\seqlist.cpp(112): warning C4018: “>=”: 有符号/无符号不匹配
+g:\git\project\data struct\顺序表\顺序表\seqlist.cpp(126): warning C4018: “<”: 有符号/无符号不匹配
+g:\git\project\data struct\顺序表\顺序表\seqlist.cpp(157): warning C4018: “<”: 有符号/无符号不匹配
+g:\git\project\data struct\顺序表\顺序表\seqlist.cpp(170): warning C4018: “<”: 有符号/无符号不匹配
+g:\git\project\data struct\顺序表\顺序表\seqlist.cpp(172): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+g:\git\project\data struct\顺序表\顺序表\seqlist.cpp(103): warning C4715: “SeqListFind”: 不是所有的控件路径都返回值
+g:\git\project\data struct\顺序表\顺序表\seqlist.cpp(209): warning C4715: “SeqListBinaryFind”: 不是所有的控件路径都返回值
+  顺序表.vcxproj -> G:\Git\project\data struct\顺序表\Debug\顺序表.exe
+  顺序表.vcxproj -> G:\Git\project\data struct\顺序表\Debug\顺序表.pdb (Partial PDB)
