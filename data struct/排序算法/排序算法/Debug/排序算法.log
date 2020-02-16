@@ -1,0 +1,5 @@
+﻿  BubbleSort.cpp
+g:\git\project\data struct\排序算法\排序算法\bubblesort.cpp(9): warning C4018: “<”: 有符号/无符号不匹配
+g:\git\project\data struct\排序算法\排序算法\bubblesort.cpp(11): warning C4018: “<”: 有符号/无符号不匹配
+  排序算法.vcxproj -> G:\Git\project\data struct\排序算法\Debug\排序算法.exe
+  排序算法.vcxproj -> G:\Git\project\data struct\排序算法\Debug\排序算法.pdb (Partial PDB)
